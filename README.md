@@ -6,3 +6,4 @@ Symbol List
 --------------
 * `WS2812B`: WS2812B addressable RGB LED (4-Pin "Neopixel")
 * `Arduino_Pro_Mini` : Arduino Pro Mini microcontroller board
+* `Tiny_RTC_DS1307`: Tiny RTC DS1307-based realtime clock board with EEPROM
