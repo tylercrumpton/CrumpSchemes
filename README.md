@@ -9,3 +9,4 @@ Symbol List
 * `Tiny_RTC_DS1307`: Tiny RTC DS1307-based realtime clock board with EEPROM
 * `APA102`: APA102 SPI Addressable 5050 RGB LED
 * `SnapStack`: SnapStack Header Pinout ([SnapStack project](https://github.com/tylercrumpton/SnapStack))
+* `SM200`: Synapse Wireless SM200 SNAP wireless module
