@@ -10,3 +10,4 @@ Symbol List
 * `APA102`: APA102 SPI Addressable 5050 RGB LED
 * `SnapStack`: SnapStack Header Pinout ([SnapStack project](https://github.com/tylercrumpton/SnapStack))
 * `SM200`: Synapse Wireless SM200 SNAP wireless module
+* `SM220`: Synapse Wireless SM220 SNAP wireless module
