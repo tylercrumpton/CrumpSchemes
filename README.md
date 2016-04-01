@@ -11,3 +11,5 @@ Symbol List
 * `SnapStack`: SnapStack Header Pinout ([SnapStack project](https://github.com/tylercrumpton/SnapStack))
 * `SM200`: Synapse Wireless SM200 SNAP wireless module
 * `SM220`: Synapse Wireless SM220 SNAP wireless module
+* `RF200`: Synapse Wireless RF200 SNAP wireless module
+
