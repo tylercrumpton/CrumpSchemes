@@ -12,4 +12,5 @@ Symbol List
 * `SM200`: Synapse Wireless SM200 SNAP wireless module
 * `SM220`: Synapse Wireless SM220 SNAP wireless module
 * `RF200`: Synapse Wireless RF200 SNAP wireless module
+* `TC200`: Custom Synapse Wireless SNAP wireless module
 
