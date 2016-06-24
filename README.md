@@ -15,4 +15,5 @@ Symbol List
 * `TC200`: Custom Synapse Wireless SNAP wireless module
 * `HT1632C`: Holtek HT1632 32x8 & 24x16 LED Driver
 * `RGBLED-8x8-CA`: 2088RGB-5 8X8 Common Anode RGB LED Matrix
+* `SC16IS740`: NXP I2C/SPI-to-UART single-channel bridge
 
