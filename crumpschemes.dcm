@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AP2114H
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
 $CMP HT1632C
 D Holtek HT1632 32x8 & 24x16 LED Driver
 K LED, matrix

@@ -17,5 +17,6 @@ Symbol List
 * `RGBLED-8x8-CA`: 2088RGB-5 8X8 Common Anode RGB LED Matrix
 * `SC16IS740`: NXP I2C/SPI-to-UART single-channel bridge
 * `USB_Edge`: USB Board Edge connector (no shield)
-* `Wemos_D1_Mini: Wemos D1 Mini ESP8266 development board
+* `Wemos_D1_Mini`: Wemos D1 Mini ESP8266 development board
+* `AP2114H`: AP2114H LDO voltage regulator
 
