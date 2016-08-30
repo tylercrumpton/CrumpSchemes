@@ -10,4 +10,9 @@ D 8X8 Common Anode RGB LED Matrix
 K LED, matrix, RGB
 $ENDCMP
 #
+$CMP USB_Edge
+D USB Board Edge connector
+K connector USB
+$ENDCMP
+#
 #End Doc Library
