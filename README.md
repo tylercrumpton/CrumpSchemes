@@ -19,4 +19,5 @@ Symbol List
 * `USB_Edge`: USB Board Edge connector (no shield)
 * `Wemos_D1_Mini`: Wemos D1 Mini ESP8266 development board
 * `AP2114H`: AP2114H LDO voltage regulator
+* `74AHC125`: Quad bus buffer gates with independent line drivers with 3-state outputs
 

@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74AHC125
+D Quad bus buffer gates with independent line drivers with 3-state outputs
+$ENDCMP
+#
 $CMP AP2114H
 D Linear Regulator +5V
 K POWER REGUL
