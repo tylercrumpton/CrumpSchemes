@@ -20,4 +20,5 @@ Symbol List
 * `Wemos_D1_Mini`: Wemos D1 Mini ESP8266 development board
 * `AP2114H`: AP2114H LDO voltage regulator
 * `74AHC125`: Quad bus buffer gates with independent line drivers with 3-state outputs
+* `QRE1113`: QRE1113/QRE1113GR Minature Reflective Object Sensor
 
