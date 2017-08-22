@@ -21,4 +21,5 @@ Symbol List
 * `AP2114H`: AP2114H LDO voltage regulator
 * `74AHC125`: Quad bus buffer gates with independent line drivers with 3-state outputs
 * `QRE1113`: QRE1113/QRE1113GR Minature Reflective Object Sensor
+* `MCP73831`: Microchip MCP73831 Single Cell Li-Ion/LiPo Charge Controller
 
