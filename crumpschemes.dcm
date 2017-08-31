@@ -10,6 +10,11 @@ K POWER REGUL
 F regulator\lm78xx.pdf
 $ENDCMP
 #
+$CMP FT230XS
+D FT230X USB TO BASIC UART IC
+K FTDI, UART, USB, serial
+$ENDCMP
+#
 $CMP HT1632C
 D Holtek HT1632 32x8 & 24x16 LED Driver
 K LED, matrix
