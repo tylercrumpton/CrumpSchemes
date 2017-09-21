@@ -10,6 +10,11 @@ K POWER REGUL
 F regulator\lm78xx.pdf
 $ENDCMP
 #
+$CMP CH340G
+D WinChipHead CH340G USB to Serial coverter
+K USB serial uart ch340g
+$ENDCMP
+#
 $CMP FT230XS
 D FT230X USB TO BASIC UART IC
 K FTDI, UART, USB, serial
