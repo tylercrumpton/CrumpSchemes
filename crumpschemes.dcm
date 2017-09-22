@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 4-pin_Crystal_Oscillator
+D 4-pin Crystal Oscillator
+K crystal smd oscillator
+$ENDCMP
+#
 $CMP 74AHC125
 D Quad bus buffer gates with independent line drivers with 3-state outputs
 $ENDCMP
