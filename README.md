@@ -24,4 +24,5 @@ Symbol List
 * `MCP73831`: Microchip MCP73831 Single Cell Li-Ion/LiPo Charge Controller
 * `FT230XS`: FTDI USB to basic UART IC
 * `CH340G`: CH340G USB to UART IC
+* `LP5912`: TI LP5912 500-mA Low-Noise, Low-IQ LDO
 

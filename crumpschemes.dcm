@@ -15,6 +15,11 @@ K POWER REGUL
 F regulator\lm78xx.pdf
 $ENDCMP
 #
+$CMP LP5912
+D LP5912 500-mA Low-Noise, Low-IQ LDO
+K LDO, regulator, LP5912
+$ENDCMP
+#
 $CMP CH340G
 D WinChipHead CH340G USB to Serial coverter
 K USB serial uart ch340g
