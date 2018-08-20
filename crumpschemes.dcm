@@ -15,11 +15,6 @@ K POWER REGUL
 F regulator\lm78xx.pdf
 $ENDCMP
 #
-$CMP LP5912
-D LP5912 500-mA Low-Noise, Low-IQ LDO
-K LDO, regulator, LP5912
-$ENDCMP
-#
 $CMP CH340G
 D WinChipHead CH340G USB to Serial coverter
 K USB serial uart ch340g
@@ -33,6 +28,16 @@ $ENDCMP
 $CMP HT1632C
 D Holtek HT1632 32x8 & 24x16 LED Driver
 K LED, matrix
+$ENDCMP
+#
+$CMP LP5912
+D LP5912 500-mA Low-Noise, Low-IQ LDO
+K LDO, regulator, LP5912
+$ENDCMP
+#
+$CMP MAX17043
+D  MAX17043/MAX17044 (UCSP) 1-Cell/2-Cell Fuel Gauge with ModelGauge and Low-Battery Alert
+K LiPo, MAX17043, MAX17044, Battery
 $ENDCMP
 #
 $CMP QRE1113
