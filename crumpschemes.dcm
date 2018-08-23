@@ -51,6 +51,11 @@ D 8X8 Common Anode RGB LED Matrix
 K LED, matrix, RGB
 $ENDCMP
 #
+$CMP STNS01
+D Li-Ion linear battery charger with LDO
+K lion battery charger LDO
+$ENDCMP
+#
 $CMP USB_Edge
 D USB Board Edge connector
 K connector USB

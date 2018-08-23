@@ -25,4 +25,6 @@ Symbol List
 * `FT230XS`: FTDI USB to basic UART IC
 * `CH340G`: CH340G USB to UART IC
 * `LP5912`: TI LP5912 500-mA Low-Noise, Low-IQ LDO
+* `MAX17043`, `MAX17044`: MAX17043/MAX17044 (UCSP) 1-Cell/2-Cell Fuel Gauge with ModelGauge and Low-Battery Alert
+* `STNS01`, `STNS01PUR`: ST Li-Ion linear battery charger with LDO
 
