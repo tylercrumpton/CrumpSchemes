@@ -46,6 +46,11 @@ K IR Transistor Emitter Reflectance Sensor
 F https://www.sparkfun.com/datasheets/Robotics/QR_QRE1113.GR.pdf
 $ENDCMP
 #
+$CMP RF200
+D Synapse RF200 wireless Mmshing 802.15.4 SNAP microcontroller module
+K snap zigbee wireless microcontroller radio synapse
+$ENDCMP
+#
 $CMP RGBLED-8X8-CA
 D 8X8 Common Anode RGB LED Matrix
 K LED, matrix, RGB
