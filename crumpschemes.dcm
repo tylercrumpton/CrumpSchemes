@@ -51,8 +51,13 @@ K IR Transistor Emitter Reflectance Sensor
 F https://www.sparkfun.com/datasheets/Robotics/QR_QRE1113.GR.pdf
 $ENDCMP
 #
+$CMP RF100
+D Synapse RF100 wireless meshing 802.15.4 SNAP microcontroller module
+K snap zigbee wireless microcontroller radio synapse
+$ENDCMP
+#
 $CMP RF200
-D Synapse RF200 wireless Mmshing 802.15.4 SNAP microcontroller module
+D Synapse RF200 wireless meshing 802.15.4 SNAP microcontroller module
 K snap zigbee wireless microcontroller radio synapse
 $ENDCMP
 #
