@@ -15,6 +15,11 @@ K POWER REGUL
 F regulator\lm78xx.pdf
 $ENDCMP
 #
+$CMP APA102
+D APA102/SK9822 SPI-addressable RGB 5050 LED
+K led rgb spi neopixel apa102 sk9822 5050
+$ENDCMP
+#
 $CMP CH340G
 D WinChipHead CH340G USB to Serial coverter
 K USB serial uart ch340g
