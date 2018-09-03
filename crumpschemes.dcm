@@ -71,6 +71,12 @@ D Li-Ion linear battery charger with LDO
 K lion battery charger LDO
 $ENDCMP
 #
+$CMP TPS61230
+D TPS6123x High Efficiency Synchronous Step Up Converters with 5-A Switches
+K boost power converter li-ion
+F http://www.ti.com/lit/ds/symlink/tps61232.pdf
+$ENDCMP
+#
 $CMP USB_Edge
 D USB Board Edge connector
 K connector USB

@@ -28,3 +28,5 @@ Symbol List
 * `MAX17043`, `MAX17044`: MAX17043/MAX17044 (UCSP) 1-Cell/2-Cell Fuel Gauge with ModelGauge and Low-Battery Alert
 * `STNS01`, `STNS01PUR`: ST Li-Ion linear battery charger with LDO
 * `RF100`: Synapse Wireless RF100 SNAP wireless module
+* `TPS61230`, `TPS61231`, `TPS61232`: TI TPS6123x High Efficiency Synchronous Step Up Converter
+
