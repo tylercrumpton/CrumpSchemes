@@ -29,4 +29,5 @@ Symbol List
 * `STNS01`, `STNS01PUR`: ST Li-Ion linear battery charger with LDO
 * `RF100`: Synapse Wireless RF100 SNAP wireless module
 * `TPS61230`, `TPS61231`, `TPS61232`: TI TPS6123x High Efficiency Synchronous Step Up Converter
+* `BQ24230`, `BQ24232`: TI BQ2423x USB-Friendly Lithium-Ion Battery Charger And Power-Path Management IC
 

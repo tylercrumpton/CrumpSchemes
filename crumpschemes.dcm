@@ -20,6 +20,18 @@ D APA102/SK9822 SPI-addressable RGB 5050 LED
 K led rgb spi neopixel apa102 sk9822 5050
 $ENDCMP
 #
+$CMP BQ24230
+D USB-Friendly Li-Ion Battery Charger and Power-Path Management
+K USB Charge
+F http://www.ti.com/lit/ds/symlink/bq24232.pdf
+$ENDCMP
+#
+$CMP BQ24232
+D USB-Friendly Li-Ion Battery Charger and Power-Path Management
+K USB Charge
+F http://www.ti.com/lit/ds/symlink/bq24232.pdf
+$ENDCMP
+#
 $CMP CH340G
 D WinChipHead CH340G USB to Serial coverter
 K USB serial uart ch340g
