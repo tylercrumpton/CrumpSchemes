@@ -1,5 +1,77 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 24LC00-OT
+D I2C Serial EEPROM, 128 Bits, SOT-23
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21178G.pdf
+$ENDCMP
+#
+$CMP 24LC01-OT
+D I2C Serial EEPROM, 1Kb, SOT-23
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21711J.pdf
+$ENDCMP
+#
+$CMP 24LC02-OT
+D I2C Serial EEPROM, 2Kb, SOT-23
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21709c.pdf
+$ENDCMP
+#
+$CMP 24LC04-OT
+D I2C Serial EEPROM, 4Kb, SOT-23
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21708K.pdf
+$ENDCMP
+#
+$CMP 24LC08-OT
+D I2C Serial EEPROM, 8Kb, SOT23
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21710J.pdf
+$ENDCMP
+#
+$CMP 24LC1025-OT
+D I2C Serial EEPROM, 1024Kb, SOT-23
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21941B.pdf
+$ENDCMP
+#
+$CMP 24LC128-OT
+D I2C Serial EEPROM, 128Kb, SOT-23
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21191s.pdf
+$ENDCMP
+#
+$CMP 24LC16-OT
+D I2C Serial EEPROM, 16Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21703d.pdf
+$ENDCMP
+#
+$CMP 24LC256-OT
+D I2C Serial EEPROM, 256Kb, SOT-23
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/devicedoc/21203m.pdf
+$ENDCMP
+#
+$CMP 24LC32-OT
+D I2C Serial EEPROM, 32Kb, SOT-23
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21072G.pdf
+$ENDCMP
+#
+$CMP 24LC512-OT
+D I2C Serial EEPROM, 512Kb, SOT-23
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21754M.pdf
+$ENDCMP
+#
+$CMP 24LC64-OT
+D I2C Serial EEPROM, 64Kb, SOT-23
+K I2C Serial EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21189f.pdf
+$ENDCMP
+#
 $CMP 4-pin_Crystal_Oscillator
 D 4-pin Crystal Oscillator
 K crystal smd oscillator
@@ -92,6 +164,12 @@ $ENDCMP
 $CMP USB_Edge
 D USB Board Edge connector
 K connector USB
+$ENDCMP
+#
+$CMP WS2812-2020
+D RGB LED with integrated controller
+K RGB LED NeoPixel addressable
+F http://www.peace-corp.co.jp/data/WS2812-2020_V1.0_EN.pdf
 $ENDCMP
 #
 #End Doc Library
