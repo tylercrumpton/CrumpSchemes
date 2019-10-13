@@ -155,6 +155,11 @@ D Li-Ion linear battery charger with LDO
 K lion battery charger LDO
 $ENDCMP
 #
+$CMP TPS61021A
+D 3-A Boost Converter with 0.5-V Ultra Low Input Voltage
+F http://www.ti.com/lit/ds/symlink/tps61021a.pdf
+$ENDCMP
+#
 $CMP TPS61230
 D TPS6123x High Efficiency Synchronous Step Up Converters with 5-A Switches
 K boost power converter li-ion

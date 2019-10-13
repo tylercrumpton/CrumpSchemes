@@ -32,3 +32,4 @@ Symbol List
 * `BQ24230`, `BQ24232`: TI BQ2423x USB-Friendly Lithium-Ion Battery Charger And Power-Path Management IC
 * `PN532`: NXP PN532 Near Field Communication (NFC) controller
 * `WS2812-2020`: WS2812 2020-size micro addressable RGB LED
+* `TPS61021A`: TI 3-A Boost Converter with 0.5-V Ultra Low Input Voltage
