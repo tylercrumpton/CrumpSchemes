@@ -109,6 +109,18 @@ D WinChipHead CH340G USB to Serial coverter
 K USB serial uart ch340g
 $ENDCMP
 #
+$CMP Conn_Eurorack_10
+D 10-Pin Eurorack connector (drop-in reduction replacement for Conn_Eurorack_16)
+K connector, eurorack
+F ~
+$ENDCMP
+#
+$CMP Conn_Eurorack_16
+D 16-Pin Eurorack connector (symbol-compatible with generic Conn_02x08_Odd_Even)
+K connector, eurorack
+F ~
+$ENDCMP
+#
 $CMP FT230XS
 D FT230X USB TO BASIC UART IC
 K FTDI, UART, USB, serial
