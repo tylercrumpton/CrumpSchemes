@@ -35,3 +35,4 @@ Kicad repo for schematic synbols I've made. Matching footprints may be found in 
 - `TPS61021A`: TI 3-A Boost Converter with 0.5-V Ultra Low Input Voltage
 - `Conn_Eurorack_10`: 10-pin Eurorack connector
 - `Conn_Eurorack_16`: 16-pin Eurorack connector
+- `Seeeduino-XIAO` : Seeeduino XIAO ATSAMD21-based microcontroller module
